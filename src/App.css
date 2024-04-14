@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.div{
+  margin-left:35%;
+  margin-top: 10%;
+  border: 5px solid whitesmoke;
+  width: 25%;
+  padding: 3%;
+  border-radius: 10px;
+}
+h2{
+  margin-left: 40%;
+  border: 2px solid black;
+  width: fit-content;
+  padding: 4%;
+  font-size: 32px;
+  background-color: #282c34;
+  color: aliceblue;
+  border-radius: 5px;  
+}
+button{
+  margin-right:15%;
+  padding: 2%;
+  border-radius: 5px;
+}
+h1{
+  color: beige;
+}
